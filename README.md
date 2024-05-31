@@ -1,2 +1,0 @@
-# junio
-lista
